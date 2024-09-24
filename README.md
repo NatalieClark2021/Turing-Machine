@@ -3,10 +3,10 @@ This is a turing machine created in python
 Here are a couple example inputs to see its functionality
 
 1. 
-Enter 5-Tuples. A . by itself to end.
-A 0RB 
-B 1RA
-.
+Enter 5-Tuples. A . by itself to end. \n
+A 0RB \n
+B 1RA\n
+.\n
 Enter the initial tape and press enter.
 
 Maximum Iterations: 10
