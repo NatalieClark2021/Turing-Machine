@@ -24,6 +24,7 @@ Maximum Iterations: 10
 Max Iterations Reached
 Final State: A
 
+
 2. 
 Enter 5-Tuples. A . by itself to end.
 A YRB
